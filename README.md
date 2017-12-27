@@ -1,2 +1,3 @@
 # idea-list
-A list of ideas of mine of things to create
+This is a place for me to store ideas of projects, big or small,
+that I want to code.
