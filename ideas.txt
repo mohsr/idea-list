@@ -1,3 +1,3 @@
 - a MIPS emulator
-- something cool with openGL to learn it (https://open.gl/)
+- something cool with openGL
 - a CLI tool to let me tweet
