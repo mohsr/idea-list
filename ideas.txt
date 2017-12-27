@@ -1,3 +1,3 @@
-a MIPS emulator
-mess around with openGL
-a CLI tool to let me tweet
+- a MIPS emulator
+- something cool with openGL
+- a CLI tool to let me tweet
