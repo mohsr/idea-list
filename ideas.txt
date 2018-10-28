@@ -1,4 +1,5 @@
 - a suite of tools to make it easier for me to be a 5e dungeon master
+- a recreation of the Google Chrome dinosaur game in terminal
 - a MIPS emulator
 - something cool with openGL to learn it (use https://open.gl/)
 - a CLI tool to let me tweet
